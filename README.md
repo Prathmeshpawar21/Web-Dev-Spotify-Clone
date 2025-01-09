@@ -28,10 +28,6 @@ The Spotify Clone is a web application that mimics the look and feel of Spotify.
    ```bash
    git clone https://github.com/Prathmeshpawar21/Web-Dev-Spotify-Clone.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd spotify-clone
-   ```
 
 
 ## Deployment
