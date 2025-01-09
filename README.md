@@ -26,24 +26,13 @@ The Spotify Clone is a web application that mimics the look and feel of Spotify.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/spotify-clone.git
+   git clone https://github.com/Prathmeshpawar21/Web-Dev-Spotify-Clone.git
    ```
 2. Navigate to the project directory:
    ```bash
    cd spotify-clone
    ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Run the development server:
-   ```bash
-   npm start
-   ```
-5. Open your browser and visit:
-   ```
-   http://localhost:3000
-   ```
+
 
 ## Deployment
 
